@@ -20,5 +20,11 @@ The project repository is organized as follows:
 - `Bigdata Project ALS model.ipynb`: Recommendations using the Alternating Least Squares (ALS) method with PySpark.
 - `Bigdata Project EDA.ipynb`: Exploratory Data Analysis (EDA) of the anime dataset.
 - `AnimeVerse.pptx`: Contains the presentation of various approaches, results.
+
+## Authors
+Sidhartha Reddy Potu - sp7835
+Sai Chandra Kaushik Siddavarapu - ss1743
+
+
   
 
