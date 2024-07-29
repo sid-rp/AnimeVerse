@@ -15,7 +15,7 @@ As anime grows in popularity worldwide, viewers face challenges in discovering c
 
 ## Project Structure
 The project repository is organized as follows:
-- `chromadb.ipynb`: Vector database recommendations using Mistral model from Huggingface.
+- `chromadb.ipynb`: Vector database recommendations using Mistral model from Huggingface. Replace the huggingface access token with your own
 - `TF_IDF.ipynb`: Recommendations using TF-IDF.
 - `Bigdata Project ALS model.ipynb`: Recommendations using the Alternating Least Squares (ALS) method with PySpark.
 - `Bigdata Project EDA.ipynb`: Exploratory Data Analysis (EDA) of the anime dataset.
